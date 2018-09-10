@@ -1,0 +1,5 @@
+name: HybrixAPI
+main: nl.jensderuiter.hybrix_api.Main
+author: jensjeflensje
+version: 1.0
+depend: [Vault]
